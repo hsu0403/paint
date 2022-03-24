@@ -27,6 +27,9 @@ body {
 
 .controls .controls__btns {
   margin-bottom: 30px;
+  display: flex;
+  justify-content: space-between;
+  width: 400px;
 }
 
 .controls__btns button {
